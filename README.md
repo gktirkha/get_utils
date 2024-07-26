@@ -17,8 +17,7 @@ To use GetUtils in your Flutter or Dart project, include it in your pubspec.yaml
 ```yaml
 dependencies:
   get_utils:
-    git:
-      url: https://github.com/gktirkha/get_utils.git
+    git: https://github.com/gktirkha/get_utils.git
 ```
 
 # Documentation
